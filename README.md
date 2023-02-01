@@ -1,2 +1,2 @@
 # Verziókezelés Gittel!
-Ebben a repositoryban található meg a weboldalunk
+Ebben a repositoryban található meg a weboldalunk, valamint projektmunkánk gyümölcse!
